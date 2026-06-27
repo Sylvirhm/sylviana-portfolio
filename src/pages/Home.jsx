@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { DATA } from "../constants";
 import Navbar from "../components/Navbar";
 
-import cv from "../assets/SylvianaRahmawati-CV.pdf";
+import cv from "../assets/CV.pdf";
 
 import emailjs from "@emailjs/browser";
 import { useRef } from "react";

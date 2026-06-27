@@ -17,14 +17,6 @@ import webIcon from '../assets/web.png';
 import dataIcon from '../assets/data-analysis.png';
 
 // Gambar project
-import egallery from '../assets/projects/egallery.png';
-import brayutedujo from '../assets/projects/brayutedujo.png';
-import emoney from '../assets/projects/emoney.png';
-import rst from '../assets/projects/rst.png';
-import raung from '../assets/projects/raung.png';
-import tableu from '../assets/projects/tableu.png';
-import himmi from '../assets/projects/himmi.png';
-import imadikom from '../assets/projects/imadikom.png';
 
 export const DATA = {
   profile: {
